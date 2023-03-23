@@ -74,7 +74,7 @@ We can divide the program codes into three parts:
 
 ## Uploading Project on Board
 
-* Open [PulseDetectorProject.ino](https://github.com/mehdi2003karami2003/Heart-Pulse-Detector-Using-Arduino/PulseDetectorProject/PulseDetectorProject.ino) file and Compile it using Arduino IDE (Hit verify button).
+* Open [PulseDetectorProject.ino](PulseDetectorProject/PulseDetectorProject.ino) file and Compile it using Arduino IDE (Hit verify button).
 * Connect Arduino board to device.
 * Select board on IDE.
 * Hit upload button.
