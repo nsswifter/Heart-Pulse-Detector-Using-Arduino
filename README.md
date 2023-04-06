@@ -83,6 +83,14 @@ Congratulation. Now you have a Heart Pulse Detector (BPM Counter).  :partying_fa
 
 Hope You Enjoy...
 
+## Contributors
+
+Feel free to share your ideas or any other problems. Pull requests are welcomed.
+
 ## Author
 
 - [Mehdi Karami](https://www.github.com/mehdi2003karami)
+
+## License
+
+`Heart Pulse Detector Using Arduino` is released under an MIT license. See [LICENSE](https://github.com/mehdi2003karami/SwiftArrayPermutations/LICENSE) for more information.
