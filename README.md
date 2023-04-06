@@ -93,4 +93,4 @@ Feel free to share your ideas or any other problems. Pull requests are welcomed.
 
 ## License
 
-`Heart Pulse Detector Using Arduino` is released under an MIT license. See [LICENSE](https://github.com/mehdi2003karami/SwiftArrayPermutations/LICENSE) for more information.
+`Heart Pulse Detector Using Arduino` is released under an MIT license. See [LICENSE](LICENSE) for more information.
