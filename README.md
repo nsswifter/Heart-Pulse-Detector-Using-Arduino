@@ -87,10 +87,6 @@ Hope You Enjoy...
 
 Feel free to share your ideas or any other problems. Pull requests are welcomed.
 
-## Author
-
-- [Mehdi Karami](https://www.github.com/mehdi2003karami)
-
 ## License
 
 `Heart Pulse Detector Using Arduino` is released under an MIT license. See [LICENSE](LICENSE) for more information.
