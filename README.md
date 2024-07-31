@@ -62,15 +62,15 @@ We want a video to be displayed when the board is launched. In general, Arduino 
 We can divide the program codes into three parts:
 1. Definition of libraries, variables, constants, and bitmaps.
 
-![Convert Image to cpp Format.](Documentation/Part1.png)
+<p align="center"><img src="Documentation/Part1.png"/></p>
 
 2. Setup function that works only once when the board is connected to the voltage source.
 
-![Convert Image to cpp Format.](Documentation/Part2.png)
+<p align="center"><img src="Documentation/Part2.png"/></p>
 
 3. Loop function that is repeated like a loop until the board is connected to the voltage source.
 
-![Convert Image to cpp Format.](Documentation/Part3.png)
+<p align="center"><img src="Documentation/Part3.png"/></p>
 
 ## Uploading Project on Board
 
